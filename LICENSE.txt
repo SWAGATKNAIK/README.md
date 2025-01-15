@@ -1,6 +1,6 @@
                                  Apache License
             
-                        http://www.apache.org/licenses/
+                 https://github.com/SWAGATKNAIK/README.md/edit/main/LICENSE.txt
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
